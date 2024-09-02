@@ -11,6 +11,6 @@ pizza_types: contains information on each pizza type, including type ID, name, a
 pizzas: contains information on each pizza, including pizza ID, pizza type ID, name, and price.
 
 **Tools & Technologies**<br>
-SQL (PostgreSQL/MySQL)
+SQL (PostgreSQL/MySQL) <br>
 Excel ( for data cleaning and summary)
 
